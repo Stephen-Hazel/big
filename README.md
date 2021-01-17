@@ -1,6 +1,7 @@
 # big
 dumps a big font to the ole console
 
+```
 sh@penguin:~/src$ big how are you
 HH        HH   OOOOOOOOOO   WW        WW  
 HH        HH  OOOOOOOOOOOO  WW        WW  
